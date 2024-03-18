@@ -1,1 +1,5 @@
 # jest-testing
+
+My aim with this project is to practice writing tests for JavaScript code. The advantages of test-driven-development include bug reduction, design improvement, and a new way of thinking about how to code.
+
+This project includes pre-assigned exercises/functions which will be separated into their own JS modules. For each of these, I will first write a unit test, and then write just enough functional code to pass said test. Once successful, more unit tests will be written to account for potential failures or undesired results, and then more functional code will be written to pass these tests. This cyclical process continues until there are enough unit tests within each function's test module. This ensures that each function has been thoroughly tested and developed in a way that it would be production-ready in a real-world scenario.
